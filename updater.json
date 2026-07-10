@@ -1,0 +1,11 @@
+{
+  "version": "0.1.0",
+  "notes": "Pierwsza wersja NotRodzyna Studio!",
+  "pub_date": "2026-07-10T15:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "TUTAJ_WKLEIMY_PODPIS_Z_PLIKU_SIG",
+      "url": "TUTAJ_WKLEIMY_LINK_DO_NOWEJ_WERSJI.zip"
+    }
+  }
+}
