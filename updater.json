@@ -1,11 +1,11 @@
 {
-  "version": "0.1.1",
-  "notes": "Wersja 1.1",
+  "version": "0.1.2",
+  "notes": "Wersja 1.2",
   "pub_date": "2026-07-10T15:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWXlxQkU5NVdnSld5NWJPTGg2MDBjdTlxMmg5Vm4xNk5KUStZL29EeW51VWI4ZWl5aC9mb2NOSmc5TWl1VjVSUG9ZeGpGcEtWNVlNYjdmbW9FY3NGZEtCNUc5SUI3MndJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzODA5NDc0CWZpbGU6bHlyaWMtc3R1ZGlvXzAuMS4xX3g2NC1zZXR1cC5leGUKeUxHY0dlNTh0Yjd0bzBKSy9zM1U4WlVzemd4UDlaNUNRang5Kytxa0FwRVJ5YWVWclhuc0t4NHpzZ2lNVXg1aTNudjdmSjVvM24rbDZDeS96b2cwQlE9PQo=",
-      "url": "https://github.com/notrodzyna/notrodzyna-updater/releases/download/v0.1.1/lyric-studio_0.1.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWXlxQkU5NVdnSlJwZmdwWXJrSGVabVJneHVYa0FZcWcwNDRsQWVTYnQrQ3JqckJucFY1S0tURDZtRWpXMFY2WkxCY0JFVllRYTd1T2tZM2VRL3YyNkNFLzNwYjAvTlFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzODEyNjYwCWZpbGU6bHlyaWMtc3R1ZGlvXzAuMS4yX3g2NC1zZXR1cC5leGUKdFRzSzlTNkIwdlFPSlorSEtlQzJ4ajEzVDd3cHVKSVhnMlFDb09CcThhMkE1cWExVjVHYlVZZWs0dVZzbFFNdUNwTWVkL3Nkc1dOVEVZWjlCaUR3Q3c9PQo=",
+      "url": "https://github.com/notrodzyna/notrodzyna-updater/releases/download/v0.1.2/lyric-studio_0.1.2_x64-setup.exe"
     }
   }
 }
