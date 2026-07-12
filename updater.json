@@ -4,8 +4,8 @@
   "pub_date": "2026-07-10T15:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcXNrWUxMbElNazl6Ryt2RkhDRXV3aW1WbnJDZGIya1FLdGdnMmkzMTFnaHN2aGtxOXJRK0ZDdEtFNjVPais2MmdLZzFFMi9NUXJpWDdoN1VPQjJRNEVrWUl5UWxwRlFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzODE1MzEzCWZpbGU6bHlyaWMtc3R1ZGlvXzAuMS4zX3g2NC1zZXR1cC5leGUKeCtkbFJxQWJpeTRkZ2VuRlFyUWl3clgyZTB1ckR1RTh4RXV6Qng1RHRHQ2VUN0F6NWc2b2dsZFZUWDBnQkZXcStXT2ZxMDdEN29kK05SRzUxMVo3QWc9PQo=",
-      "url": "https://github.com/notrodzyna/notrodzyna-updater/releases/download/v0.1.3/lyric-studio_0.1.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcXNrWUxMbElNa3l1TVlHMFhRalNlQjdTYU0zZW93WG9yNnlvVmFCU1pFdU90RndxRUZ1b0QyWnNGdjZmN2JhamEwaXROdUxhTytxRU5Mb0JWS2VWaVBXdUxvZFNWT3dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzODE3MDUxCWZpbGU6bHlyaWMtc3R1ZGlvXzAuMS40X3g2NC1zZXR1cC5leGUKb3c1R3pPRDQyZytRYW5TcUtsQ21nL0JxcGxDTCs1UkRDelh5N2ZCd3ZNMkJVOG4zR0VQb2M1YUkxWjlibjNBNE9tZkhQbGpNc1BtUWtGbGQxTmg3Qmc9PQo=",
+      "url": "https://github.com/notrodzyna/notrodzyna-updater/releases/download/v0.1.4/lyric-studio_0.1.4_x64-setup.exe"
     }
   }
 }
