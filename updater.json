@@ -1,11 +1,11 @@
 {
-  "version": "0.1.0",
-  "notes": "Wersja 1.0",
+  "version": "0.1.1",
+  "notes": "Wersja 1.1",
   "pub_date": "2026-07-10T15:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcXNrWUxMbElNazF3VVdhbmZiRkNTZ1dUZ1hrOU1YYWkyZFBENUw0eVhvLzhkdFV3dUJ2MWgvRFNYMXdSN1Fzb3Bvei8zNmhITWxpYmUrWVA5VEcrZDZuQ3BOQ3c4TncwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MzczNjA1CWZpbGU6Tm90Um9kenluYV8wLjEuMF94NjQtc2V0dXAuZXhlCnI3TU00RGJMc2JVck5uTWk0TXZYNFdPWFZTaEVGTVNKNXMvMG03NlR1Q1RXUXVZckU2V3BQdUQzNnNsQXZxNk55Y1prNW9CckdGdUJFV0VTTzFJWUNBPT0K",
-      "url": "https://github.com/notrodzyna/notrodzyna-updater/releases/download/v0.1.0/NotRodzyna_0.1.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcXNrWUxMbElNazQ0VENtMkgxUVM1R3FhTkhFYkQvVHBMb0pZRFYzcUUzdmsxUElJbmxUVlpzRW1xS210UjJianZSY3p1eTlOMXpOMU9TT0QwSlBvVHRSUXJzbDNDNkFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NDExNjIxCWZpbGU6Tm90Um9kenluYV8wLjEuMV94NjQtc2V0dXAuZXhlCkdBc1NpNGZNZ1N3MytnUXlFQ3ZLYXZ3RzFPVUNZR2g4VGhsUmxLMmZWSFVaTDN0NU5IOXBHT0NmVitjTktKSTVsaHVtSStJc3MzRXFjZ3FvY2c1TUJRPT0K",
+      "url": "https://github.com/notrodzyna/notrodzyna-updater/releases/download/v0.1.1/NotRodzyna_0.1.1_x64-setup.exe"
     }
   }
 }
