@@ -4,7 +4,7 @@
   "pub_date": "2026-07-10T15:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcXNrWUxMbElNaytZaTRzV2tvMUJiTFM5R09GK3c1OE1qdE5Pai9uTjRlZ1ZuMWJzdXdXZkx1MDFUZUs2emxtV1hEYzE2V3RlMUI4U3U4MXh3ZS9aMktEOHFKV21iUFFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MzcxODU0CWZpbGU6Tm90Um9kenluYV8wLjEuNV94NjQtc2V0dXAuZXhlCnZ6S1JOSUxscFN1SkJjY0ZlS0tqdnpnQmpickRCWW9SdXN5YnYySG03YWtkdlpOMGtrSFVKNlMrVTZGOHVtSk1SRDczdFdUeFMyQTNSY2NnNDhYUEFnPT0K",
+      "signature": "RUTqskYLLlIMk+Yi4sWko1BbLS9GOF+w58MjtNOj/nN4egVn1bsuwWfLu01TeK6zlmWXDc16Wte1B8Su81xwe/Z2KD8qJWmbPQQ=",
       "url": "https://github.com/notrodzyna/notrodzyna-updater/releases/download/v0.1.5/NotRodzyna_0.1.5_x64-setup.exe"
     }
   }
