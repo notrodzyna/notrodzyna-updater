@@ -4,7 +4,7 @@
   "pub_date": "2026-07-10T15:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "RUTqskYLLlIMk+Yi4sWko1BbLS9GOF+w58MjtNOj/nN4egVn1bsuwWfLu01TeK6zlmWXDc16Wte1B8Su81xwe/Z2KD8qJWmbPQQ=",
+      "signature": "untrusted comment: signature from tauri secret key\nRUTqskYLLlIMk+Yi4sWko1BbLS9GOF+w58MjtNOj/nN4egVn1bsuwWfLu01TeK6zlmWXDc16Wte1B8Su81xwe/Z2KD8qJWmbPQQ=\ntrusted comment: timestamp:1784371854\tfile:NotRodzyna_0.1.5_x64-setup.exe\nvzKRNILlpSuJBccFeKKjvzgBjbrDBYoRusybv2Hm7akdvZN0kkHUJ6S+U6F8umJMRD73tWTxS2A3Rccg48XPAg==",
       "url": "https://github.com/notrodzyna/notrodzyna-updater/releases/download/v0.1.5/NotRodzyna_0.1.5_x64-setup.exe"
     }
   }
